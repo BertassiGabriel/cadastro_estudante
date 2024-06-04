@@ -30,7 +30,7 @@ co9 = "#e9edf5"   # + verde
 
 # Criando janela
 janela = Tk()
-janela.title("")
+janela.title("Pilates Fernanda RZ")
 janela.geometry('850x620')
 janela.configure(background=co1)
 janela.resizable(width=FALSE, height=FALSE)
